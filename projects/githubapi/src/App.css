@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.App input{ 
+  width:140px;
+  height:30px;
+  border-radius: 5px;
+  border-block-end-color: aqua;
+  border-block-start-color: aqua;
+  border-block-color: aqua;
+}
+.App button{
+  background-color: aqua;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+
