@@ -1,0 +1,21 @@
+.container{
+    background:skyblue;
+    text-align: center;
+    width: 300px;
+    height: 150px;
+    margin-left: 500px;
+}
+.desc{
+    font-size: 20px;
+    margin: 0;
+}
+.temp{
+    font-size: 30px;
+    text-align:center;
+    font-style: bold;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: skyblue;
+}
